@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    font-family: 'Archivo', sans-serif;
+    background-image: url('img/header.jpg');
+    background-position: center;
+    background-size:cover;
+    color:#fff;
+    min-height: 500px;
+}
